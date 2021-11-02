@@ -1,4 +1,4 @@
-package com.augustoaccorsi.chapter2.threadvsprocess;
+package com.augustoaccorsi.chapter2.thread;
 
 class CPUWaster extends Thread{
     public void run() {

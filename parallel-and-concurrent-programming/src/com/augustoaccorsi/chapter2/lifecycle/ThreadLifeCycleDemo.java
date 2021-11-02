@@ -1,4 +1,4 @@
-package com.augustoaccorsi.chapter2.threadlifecycle;
+package com.augustoaccorsi.chapter2.lifecycle;
 
 class CheffOlivia extends Thread{
     @Override
